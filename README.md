@@ -2,7 +2,7 @@
 # Deciphering-Key-Influences-on-Restaurant-Success-within-Uber-Eats
 **Contributors:** Annie Chien, Han Nga Chan, Sahasra Konkala, Sofia Lopez Somohano, Saumya Anand, Jose Salerno
 
-This project involves analyzing data obtained through web scraping from the Uber Eats website. Its primary objective is to gain insights into the broader Uber Eats landscape and provide actionable recommendations for both existing and prospective restaurants.
+**Project Overview:** This project involves analyzing data obtained through web scraping from the Uber Eats website. Its primary objective is to gain insights into the broader Uber Eats landscape and provide actionable recommendations for both existing and prospective restaurants.
 
 **Resources**
 
